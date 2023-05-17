@@ -1,4 +1,5 @@
 branch3 text
+brach4 text
 git branch -b newBranch <- creation of new branch
 git branch <- to get current branch name
 git checkout newBranch <- to moove on newBranch
